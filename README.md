@@ -1,6 +1,6 @@
 # Duncan Bowring
 
-**Platform Engineer | AI Systems Architect **
+**Platform Engineer | AI Systems Architect**
 
 Washington, DC | Originally from Scotland
 
