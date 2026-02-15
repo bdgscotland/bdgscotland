@@ -12,7 +12,7 @@ Washington, DC | Originally from Scotland
 
 Enterprise transformation through engineering and architecture. I help large organizations modernize how they build, operate, and reason about software — using AI agents, knowledge graphs, and platform engineering to close the gap between legacy reality and where they need to be.
 
-Currently at **Accenture**. Previously shipped games that won a BAFTA.
+Currently at **Accenture**.
 
 ## What I Work On
 
