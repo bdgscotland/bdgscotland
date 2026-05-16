@@ -47,7 +47,7 @@ Platforms        Azure DevOps, GitHub Actions, CI/CD pipelines
 
 ## Background
 
-Two decades of building things that ship. Started in game development — **Crackdown** won the **BAFTA for Action & Adventure** in 2006. Moved into cloud architecture and enterprise infrastructure, then into AI-powered platforms. The thread through all of it is the same: understand the system, design the architecture, build it, ship it.
+Two decades of building things that ship. Started in game development — **Crackdown** won the **BAFTA for Action & Adventure** in 2006. 
 
 ## Affiliations
 
